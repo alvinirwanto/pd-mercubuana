@@ -30,6 +30,7 @@ const Navbar = () => {
             <div className='flex gap-2 md:gap-4 items-center'>
                 <Link href='/'>
                     <Image
+                        alt='logo UMB'
                         src={shadowNav ? LogoUMB2 : LogoUMB}
                         className={`${shadowNav ? 'w-8 h-8 md:w-[3rem] md:h-[3rem] xl:h-[3.5rem] xl:w-[3.5rem]' : 'w-[3rem] h-[3rem] md:w-[5rem] md:h-[5rem] xl:h-[7rem] xl:w-[7rem]'} duration-500 cursor-pointer`}
                     />
@@ -53,19 +54,38 @@ const Navbar = () => {
                     Aset
                 </div> 
             </div> */}
-            <div class="hidden md:block relative group">
-                <button class="w-full text-base bg-transparent rounded-lg md:w-auto md:inline md:mt-0 focus:outline-none font-semibold">
-                    <div className='flex gap-6 justify-center items-center'>
-                        <span>Mahasiswa</span>
-                        <MdKeyboardArrowDown />
-                    </div>
-                </button>
+            <div className='flex items-center gap-[3rem]'>
+                <div className="hidden md:block relative group">
+                    <button className="w-full text-base bg-transparent rounded-lg md:w-auto md:inline md:mt-0 focus:outline-none font-semibold">
+                        <div className='flex gap-2 justify-center items-center'>
+                            <span>Mahasiswa</span>
+                            <MdKeyboardArrowDown />
+                        </div>
+                    </button>
 
-                <div class="absolute z-10 hidden bg-grey-200 group-hover:block">
-                    <div class="w-full bg-white shadow-lg">
-                        <div class="flex flex-col">
-                            <Link href='/mahasiswa/keuangan' className='hover:bg-gray-100 px-6 py-4'>Keuangan</Link>
-                            <Link href='/mahasiswa/mahasiswa' className='hover:bg-gray-100 px-6 py-4'>Data Mahasiswa</Link>
+                    <div className="absolute z-10 hidden bg-grey-200 group-hover:block">
+                        <div className="w-full bg-white shadow-lg">
+                            <div className="flex flex-col">
+                                <Link href='/mahasiswa/keuangan' className='hover:bg-gray-100 px-6 py-4'>Keuangan</Link>
+                                <Link href='/mahasiswa/mahasiswa' className='hover:bg-gray-100 px-6 py-4'>Data Mahasiswa</Link>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="hidden md:block relative group">
+                    <button className="w-full text-base bg-transparent rounded-lg md:w-auto md:inline md:mt-0 focus:outline-none font-semibold">
+                        <div className='flex gap-2 justify-center items-center'>
+                            <span>Marketing</span>
+                            <MdKeyboardArrowDown />
+                        </div>
+                    </button>
+
+                    <div className="absolute z-10 hidden bg-grey-200 group-hover:block">
+                        <div className="w-full bg-white shadow-lg">
+                            <div className="flex flex-col">
+                                <Link href='/marketing/mahasiswa-baru' className='hover:bg-gray-100 px-6 py-4'>Mahasiswa Baru</Link>
+                            </div>
                         </div>
                     </div>
                 </div>

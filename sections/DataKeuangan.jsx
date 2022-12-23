@@ -2,7 +2,7 @@ import React from 'react'
 
 const DataKeuangan = () => {
     return (
-        <div className='mt-[15rem]'>
+        <div className='mt-[10rem]'>
             <iframe
                 title="Dashboard Keuangan Mahasiswa"
                 className='w-full h-screen scale-[1.1]'

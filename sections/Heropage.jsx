@@ -29,6 +29,8 @@ const Heropage = () => {
                     src='/data.svg'
                     width={1000}
                     height={1000}
+                    alt='icon'
+                    priority
                     className='w-full h-full object-contain'
                 />
             </div>
