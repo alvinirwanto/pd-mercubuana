@@ -66,7 +66,7 @@ const Navbar = () => {
                     <div className="absolute z-10 hidden bg-grey-200 group-hover:block">
                         <div className="w-full bg-white shadow-lg">
                             <div className="flex flex-col">
-                                <Link href='/keuangan/permintaan-pembayaran' className='hover:bg-gray-100 px-6 py-4'>Permintaan Pembayaran</Link>
+                                <Link href='/keuangan/permintaan-pembayaran' className='hover:bg-gray-100 px-6 py-4'>Pengajuan PP dan PUM</Link>
                             </div>
                         </div>
                     </div>
