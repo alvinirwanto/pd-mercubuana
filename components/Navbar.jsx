@@ -36,7 +36,7 @@ const Navbar = () => {
                     />
                 </Link>
                 <div className={`border-l-2 border-primary-blue flex flex-col justify-center px-2 md:px-5 ${shadowNav ? 'py-0' : 'py-1 md:py-4'}`}>
-                    <p className='text-xs md:text-base xl:text-xl font-semibold'>Pangkalan Dati</p>
+                    <p className='text-xs md:text-base xl:text-xl font-semibold'>Pangkalan Data</p>
                     <p className='text-sm md:text-lg xl:text-xl font-semibold text-primary-blue'>Universitas Mercu Buana</p>
                 </div>
             </div>
