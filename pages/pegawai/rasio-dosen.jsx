@@ -18,4 +18,4 @@ const RasioDosen = () => {
     )
 }
 
-export default MahasiswaBaru
+export default RasioDosen
