@@ -5,7 +5,7 @@ import DataMahasiswa from '../sections/DataMahasiswa'
 export default function Home() {
     return (
         <Layout
-            pageTitle='Home'
+            pageTitle='PD Mercu Buana'
         >
             <Heropage />
             <DataMahasiswa />
