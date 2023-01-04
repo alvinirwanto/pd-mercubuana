@@ -1,10 +1,10 @@
 import React from 'react'
 import Layout from '../../components/Layout'
 
-const MahasiswaBaru = () => {
+const DataClosing = () => {
     return (
         <Layout
-            pageTitle='Data Mahasiswa'
+            pageTitle='Data Closing'
         >
             <div className='pt-[10rem]'>
                 <iframe
@@ -18,4 +18,4 @@ const MahasiswaBaru = () => {
     )
 }
 
-export default MahasiswaBaru
+export default DataClosing
