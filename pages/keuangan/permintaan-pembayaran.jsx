@@ -4,7 +4,7 @@ import Layout from '../../components/Layout'
 const PermintaanPembayaran = () => {
     return (
         <Layout
-            pageTitle='Data Keuangan'
+            pageTitle='Pengajuan PP dan PUM'
         >
             <div className='mt-[10rem]'>
                 <iframe
