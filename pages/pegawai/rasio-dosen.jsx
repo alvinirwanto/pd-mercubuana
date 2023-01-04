@@ -11,7 +11,7 @@ const RasioDosen = () => {
                     title="Ratio Student and Dosen - Ratio Mahasiswa Dosen"
                     // width="600" height="373.5" 
                     className='w-full h-screen'
-                    src="https://app.powerbi.com/view?r=eyJrIjoiMmNmMzNmYzktNGJjOS00M2VlLWJkMmMtYThkOTZiZTMyMjU3IiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+                    src="https://app.powerbi.com/view?r=eyJrIjoiMmNmMzNmYzktNGJjOS00M2VlLWJkMmMtYThkOTZiZTMyMjU3IiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D&pageName=ReportSectionb4c9f3ea92944d548813" frameborder="0" allowFullScreen="true"></iframe>
 
             </div>
         </Layout>
