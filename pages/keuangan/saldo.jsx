@@ -4,7 +4,7 @@ import Layout from '../../components/Layout'
 const Saldo = () => {
     return (
         <Layout
-            pageTitle='Saldo 31 Dec'
+            pageTitle='Saldo'
         >
             <div className='mt-[10rem]'>
                 <iframe
