@@ -8,10 +8,10 @@ const Pressensi = () => {
         >
             <div className='pt-[10rem]'>
                 <iframe
-                    title="Ratio Student and Dosen - Ratio Mahasiswa Dosen"
+                    title="UMB Pressensi Dashboard 040123 - Page 1"
                     // width="600" height="373.5" 
                     className='w-full h-screen'
-                    src="https://app.powerbi.com/view?r=eyJrIjoiOWM4MWNjNzMtNzE4NC00MWJjLThjMDgtZDA3NWZkOGY5YjA5IiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+                    src="https://app.powerbi.com/view?r=eyJrIjoiODY5MmE3ZjYtMjUzYS00OGNiLTlhMmYtOTM3N2RkMGY2OTc1IiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
             </div>
         </Layout>
