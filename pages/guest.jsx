@@ -54,7 +54,6 @@ const guest = () => {
 
             <div className='px-4 md:px-8 xl:px-[5rem]'>
                 <Heropage />
-                <DataMahasiswa />
             </div>
         </>
     )
