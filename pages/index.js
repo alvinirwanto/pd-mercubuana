@@ -47,13 +47,13 @@ function User({ session, handleSignOut }) {
             >
                 <Heropage />
                 <DataMahasiswa />
-                <div className='flex gap-9 my-8'>
+                <div className='flex gap-9 my-8 items-center justify-center w-full'>
                     <div className='details'>
                         <h5>{session.user.name}</h5>
                         <h5>{session.user.email}</h5>
                     </div>
                     <div className="flex justify-center">
-                        <button onClick={handleSignOut} className='mt-5 px-10 py-1 rounded-sm bg-indigo-500'>Sign Out</button>
+                        <button onClick={handleSignOut} className='mt-5 px-10 py-2 rounded-sm bg-indigo-500 text-white'>Sign Out</button>
                     </div>
                 </div>
             </Layout >
