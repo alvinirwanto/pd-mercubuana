@@ -115,9 +115,9 @@ export default function Login() {
                 </form>
 
                 {/* bottom */}
-                <p className='text-center text-gray-400 '>
+                {/* <p className='text-center text-gray-400 '>
                 don't have an account yet? <Link href={'/register'}>Sign Up</Link>
-            </p>
+            </p> */}
             </section>
 
         </div>
