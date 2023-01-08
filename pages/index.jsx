@@ -3,12 +3,12 @@ import styles from '../styles/Home.module.css'
 import { getSession, useSession, signOut } from "next-auth/react"
 
 
-import Heropage from '../sections/Heropage'
-import Layout from '../components/Layout'
-import DataMahasiswa from '../sections/DataMahasiswa'
+// import Heropage from '../sections/Heropage'
+// import Layout from '../components/Layout'
+// import DataMahasiswa from '../sections/DataMahasiswa'
 
 import GuestPage from './guest'
-import HomePage from './Home'
+import HomePage from './home'
 
 export default function Home() {
 
