@@ -14,7 +14,7 @@ import LogoUMB2 from '../public/LogoUMB/logo-umb.png'
 import { FiMenu } from 'react-icons/fi'
 import { MdKeyboardArrowDown } from 'react-icons/md'
 
-const guest = () => {
+const GuestPage = () => {
 
     // Add shadow to the navbar when scroll
     const [shadowNav, setShadowNav] = useState(false)
@@ -59,4 +59,4 @@ const guest = () => {
     )
 }
 
-export default guest
+export default GuestPage
