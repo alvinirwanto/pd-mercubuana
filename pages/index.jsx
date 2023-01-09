@@ -1,11 +1,6 @@
 import Head from 'next/head'
 import { getSession, useSession, signOut } from "next-auth/react"
 
-
-// import Heropage from '../sections/Heropage'
-// import Layout from '../components/Layout'
-// import DataMahasiswa from '../sections/DataMahasiswa'
-
 import GuestPage from './guest'
 import HomePage from './home'
 

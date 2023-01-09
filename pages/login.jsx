@@ -25,11 +25,6 @@ export default function Login() {
         onSubmit
     })
 
-    /**
-     * haleykennedy@gmail.com
-     * admin123
-     */
-
     async function onSubmit(values) {
         const status = await signIn('credentials', {
             redirect: false,
