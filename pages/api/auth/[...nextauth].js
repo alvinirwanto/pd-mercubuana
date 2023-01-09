@@ -7,6 +7,7 @@ import Users from '../../../model/Schema'
 import { compare } from 'bcryptjs';
 
 export default NextAuth({
+    site: process.env.NEXTAUTH_URL,
     providers : [
         // Google Provider
         // GoogleProvider({
