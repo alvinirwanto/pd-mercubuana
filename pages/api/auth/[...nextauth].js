@@ -8,6 +8,7 @@ import { compare } from 'bcryptjs';
 
 export default NextAuth({
     site: process.env.NEXTAUTH_URL,
+    // site: 'http://localhost:3000',
     providers : [
         // Google Provider
         // GoogleProvider({

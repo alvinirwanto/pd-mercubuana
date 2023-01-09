@@ -25,11 +25,6 @@ export default function Login() {
         onSubmit
     })
 
-    /**
-     * haleykennedy@gmail.com
-     * admin123
-     */
-
     async function onSubmit(values) {
         const status = await signIn('credentials', {
             redirect: false,
@@ -115,9 +110,9 @@ export default function Login() {
                 </form>
 
                 {/* bottom */}
-                {/* <p className='text-center text-gray-400 '>
+                <p className='text-center text-gray-400 '>
                 don't have an account yet? <Link href={'/register'}>Sign Up</Link>
-            </p> */}
+            </p>
             </section>
 
         </div>

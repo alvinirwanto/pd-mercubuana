@@ -7,6 +7,12 @@ const Footer = () => {
 
     function handleSignOut() {
         signOut()
+        return {
+            redirect: {
+                destination: '/guest',
+                permanent: false
+            }
+        }
     }
 
 
