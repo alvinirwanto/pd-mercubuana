@@ -11,7 +11,7 @@ const Saldo = () => {
                     title="Saldo Dashboard - Halaman 1"
                     className='w-full h-screen scale-[1.1]'
                     // width="600" height="373.5"
-                    src="https://app.powerbi.com/view?r=eyJrIjoiZDM4YmQyMmYtNjRjNS00ODkyLWIwNDUtMGU2ZWEwZWZkMzY2IiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+                    src="https://app.powerbi.com/view?r=eyJrIjoiY2M0ODQ5NDAtYTMwZi00ZmFkLWE4MzgtMDUwOGEyNWM5NzhjIiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
             </div>
         </Layout>
     )
