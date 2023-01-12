@@ -125,6 +125,23 @@ const Navbar = () => {
                         </div>
                     </div>
                 </div>
+
+                <div className="hidden md:block relative group">
+                    <button className="w-full text-base bg-transparent rounded-lg md:w-auto md:inline md:mt-0 focus:outline-none font-semibold">
+                        <div className='flex gap-2 justify-center items-center'>
+                            <span>Projects</span>
+                            <MdKeyboardArrowDown />
+                        </div>
+                    </button>
+
+                    <div className="absolute z-10 hidden bg-grey-200 group-hover:block">
+                        <div className="w-full bg-white shadow-lg">
+                            <div className="flex flex-col">
+                                <Link href='/pegawai/rasio-dosen' className='hover:bg-gray-100 px-6 py-4'>Hambalang Farm</Link>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </nav>
     )
