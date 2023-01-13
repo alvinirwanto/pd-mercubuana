@@ -129,7 +129,7 @@ const Navbar = () => {
                 <div className="hidden md:block relative group">
                     <button className="w-full text-base bg-transparent rounded-lg md:w-auto md:inline md:mt-0 focus:outline-none font-semibold">
                         <div className='flex gap-2 justify-center items-center'>
-                            <span>Projects</span>
+                            <span>Proyek</span>
                             <MdKeyboardArrowDown />
                         </div>
                     </button>
