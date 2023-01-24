@@ -126,8 +126,8 @@ const Navbar = () => {
                     </div>
                 </div>
 
-                <div className="hidden md:block relative group">
-                    <button className="w-full text-base bg-transparent rounded-lg md:w-auto md:inline md:mt-0 focus:outline-none font-semibold">
+                {/* <div className="hidden md:block relative group">
+                   <button className="w-full text-base bg-transparent rounded-lg md:w-auto md:inline md:mt-0 focus:outline-none font-semibold">
                         <div className='flex gap-2 justify-center items-center'>
                             <span>Proyek</span>
                             <MdKeyboardArrowDown />
@@ -141,7 +141,7 @@ const Navbar = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
         </nav>
     )
