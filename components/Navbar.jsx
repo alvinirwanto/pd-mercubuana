@@ -85,7 +85,7 @@ const Navbar = () => {
                         <div className="w-full bg-white shadow-lg">
                             <div className="flex flex-col">
                                 <Link href='/mahasiswa/mahasiswa' className='hover:bg-gray-100 px-6 py-4'>Data Mahasiswa</Link>
-                                <Link href='/mahasiswa/keuangan' className='hover:bg-gray-100 px-6 py-4'>Keuangan</Link>
+                                <Link href='/mahasiswa/uang-kuliah' className='hover:bg-gray-100 px-6 py-4'>Uang Kuliah</Link>
                             </div>
                         </div>
                     </div>
