@@ -11,7 +11,7 @@ const Pressensi = () => {
                     title="UMB Pressensi Dashboard 240123 - Page 1"
                     // width="600" height="486" 
                     className='w-full h-screen'
-                    src="https://app.powerbi.com/view?r=eyJrIjoiMTMwZTJhZGItYzVkMy00NzU0LWExOGMtNzNhMjEzY2YwNTAyIiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+                    src="https://app.powerbi.com/view?r=eyJrIjoiYTRlNDYxMTItY2JjNS00NjVhLTkxM2ItMTVlZTVmZmIzMDEwIiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
             </div>
         </Layout>
