@@ -11,7 +11,7 @@ const DataClosing = () => {
                     title="Data Closing 200123 - Dashboard"
                     // width="600" height="373.5" 
                     className='w-full h-screen'
-                    src="https://app.powerbi.com/view?r=eyJrIjoiODZmMTIzM2UtNDZkZS00NmZjLWFlMDctYTBmZmUzNDRlZDAyIiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D&pageName=ReportSection2b3fefe0ec91aa4553da" frameborder="0" allowFullScreen="true"></iframe>
+                    src="https://app.powerbi.com/view?r=eyJrIjoiOTUzNzlmNGUtNTRhYy00MzEwLWE5OWUtM2UxY2VhZTdlMGRhIiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
             </div>
         </Layout>
