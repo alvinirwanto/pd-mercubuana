@@ -121,7 +121,7 @@ const Navbar = () => {
                         <div className="w-full bg-white shadow-lg">
                             <div className="flex flex-col">
                                 <Link href='/pegawai/rasio-dosen' className='hover:bg-gray-100 px-6 py-4'>Rasio Dosen</Link>
-                                <Link href='/pegawai/pressensi' className='hover:bg-gray-100 px-6 py-4'>Pressensi</Link>
+                                <Link href='/pegawai/presensi' className='hover:bg-gray-100 px-6 py-4'>Presensi</Link>
                             </div>
                         </div>
                     </div>
