@@ -103,7 +103,7 @@ const Navbar = () => {
                         <div className="w-full bg-white shadow-lg">
                             <div className="flex flex-col">
                                 <Link href='/marketing/data-closing' className='hover:bg-gray-100 px-6 py-4'>Data Closing</Link>
-                                <Link href='/marketing/marketing-cost' className='hover:bg-gray-100 px-6 py-4'>Marketing Cost</Link>
+                                <Link href='/marketing/cost-per-student' className='hover:bg-gray-100 px-6 py-4'>Marketing Cost</Link>
                             </div>
                         </div>
                     </div>
