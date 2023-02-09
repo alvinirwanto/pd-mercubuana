@@ -15,7 +15,7 @@ const DataClosing = () => {
 
                 <iframe title="Report Section"
                     className='w-full h-screen'
-                    src="https://app.powerbi.com/view?r=eyJrIjoiYmE2MzIxMTQtNmYzZi00MGY3LWI4YWQtYmQzZWUxNDNlMGQwIiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+                    src="https://app.powerbi.com/view?r=eyJrIjoiOTAzYzc1YWEtYWU3Yi00MWZmLWFmODgtYzQyZTA4NDA0NDdhIiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D&pageName=ReportSection2b3fefe0ec91aa4553da" frameborder="0" allowFullScreen="true"></iframe>
             </div>
         </Layout>
     )
