@@ -11,7 +11,7 @@ const Presensi = () => {
                     title="UMB Presensi Dashboard 030223 - Page 1"
                     // width="600" height="486" 
                     className='w-full h-screen'
-                    src="https://app.powerbi.com/view?r=eyJrIjoiYmRiN2JjNGYtYjUxNS00OGMzLWFhMGUtZjE2YzNhZDUwOTcyIiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+                    src="https://app.powerbi.com/view?r=eyJrIjoiM2Q3NDhlNTUtNDAyZC00ZTc3LTlhY2EtZDY5OWY5NTcwMGJlIiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
             </div>
         </Layout>
