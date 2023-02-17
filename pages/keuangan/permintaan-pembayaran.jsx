@@ -11,7 +11,7 @@ const PermintaanPembayaran = () => {
                     title="Pengajuan PP dan PUM"
                     className='w-full h-screen scale-[1.1]'
                     // width="600" height="373.5"
-                    src="https://app.powerbi.com/view?r=eyJrIjoiZTQ5MzlkZWYtMTRkMi00MjQ4LWE2OTYtNWYzYzNiNWI0NDgwIiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+                    src="https://app.powerbi.com/view?r=eyJrIjoiZDYwZTg1NmUtMDM2Ni00ZDgxLWFmYmQtMmUwMjIwMTA0MzEyIiwidCI6ImZlOTZiY2VlLTc0YjEtNDQxNS1hNWE4LTZiYmJlNGNmMjUxMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
             </div>
         </Layout>
     )
